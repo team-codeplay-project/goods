@@ -23,6 +23,9 @@ function App() {
       https://weaja.joins.com/data/photo/originals/2020/11/10/5f434f74539a35227741.jpg
       https://weaja.joins.com/data/photo/originals/2020/11/10/5f910a3af38529677649.jpg
       https://weaja.joins.com/data/photo/originals/2020/11/10/5f87ffb3083fa9732250.jpg
+      https://cdn-pro-web-250-211.cdn-nhncommerce.com/keienkorea5_godomall_com/data/goods/23/02/07/1000003551/register_detail_177.jpg
+      http://kbomarket.com/goods/goods_view.php?goodsNo=1000003779#lyZoom
+      http://newsimg.hankookilbo.com/2018/06/10/201806101907366613_2.jpg
     </div>
   );
 }
